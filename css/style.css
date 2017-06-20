@@ -1,0 +1,21 @@
+
+p.intro {
+ width: 41%;
+ font-style: italic;
+}
+
+body {
+    background-color: light-blue;
+}
+
+h1 {
+  width: 60%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color:  pink;
+}
